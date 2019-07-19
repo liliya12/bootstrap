@@ -1,0 +1,46 @@
+body{
+    padding:50px 0px 0px 0px;
+    z-index: auto;
+}
+.row-header {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.row-content {
+    margin: 0 auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 300px;
+}
+
+.footer {
+    margin: 0 auto;
+    padding: 20px 0px;
+    background-color: #ed969e;
+}
+
+.jumbotron {
+    margin: 0 auto;
+    padding: 70px 30px;
+    background-color: #ff9999;
+    color: floralwhite;
+
+}
+
+address {
+    font-size: 80%;
+    margin: 0;
+    color: #0f6674;
+}
+.color{
+    color: #ff00ff;
+}
+a{
+    cursor: pointer;
+}
+.tab-content{
+    border-left: 1px solid #ff9999;
+    border-right:1px solid #e83e8c;
+    border-bottom:1px solid #ff00ff;
+}
